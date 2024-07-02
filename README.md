@@ -24,28 +24,53 @@
 - Настройки мира:
   - Максимальный размер мира теперь 10000 на 10000 блоков
   - Удалены чанки которые были прогружены, но не использовались
+  - Был произведен вайп всех допмиров (не основного)
 Клиентское обновление:
 - Модификации:
-  -Были удалены следующие моды: Biome Particle, Smooth Swapping
+  -Были удалены следующие моды:
+  
+  Biome Particle,
+  
+  Smooth Swapping
+  
   -Были добавлены следующие моды:
+  
   Handcrafted
+  
   Minecolonies (+аддоны)
+  
   Dungeon Now Loading
+  
   Аддоны для Create
+  
   DivineRPG
+  
   Deep and Darker
+  
   The Undergarden
+  
   Easy Village
+  
   Easy Pillager
+  
   Lucky's Armor
+  
   Straw Statues
+  
   Framed Blocks
+  
   Yuusha's Decors
+  
   CityCraft
+  
   Structure Compass
+  
   Аддоны для Delight
+  
   YUNG's Better Nether Dungeon
+
   YUNG's Better Water Monuments
+  
   (это последние добавления модов. Больше их не будет, если это не сделает автор сборки.)
   - Зачарование "Починка" теперь работает правильно
   - Кнопка "Сетевая игра" теперь подключает к серверу
